@@ -29,17 +29,28 @@ A GenAI-powered mock interview platform that simulates real interviews with
 ## 📁 Project Structure
 
 interview_coach/
+
 │── app.py
+
 │── config.py
+
 │── requirements.txt
+
 │── .env
+
 │
 ├── utils/
+
 │ └── engine.py
+
 │
+
 └── templates/
+
 ├── index.html
+
 ├── interview.html
+
 └── result.html
 
 
